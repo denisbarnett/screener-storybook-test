@@ -1,3 +1,0 @@
-npm i -g getstorybook
-cd my-react-app
-getstorybook
